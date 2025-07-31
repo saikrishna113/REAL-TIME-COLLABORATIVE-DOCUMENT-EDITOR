@@ -135,4 +135,4 @@ This project demonstrates mastery of:
 - **Mobile Apps**: Native iOS and Android applications
 - **Enterprise Features**: Advanced analytics, compliance tools, and integrations
 
-## output:
+## output:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/092469d3-e981-4664-a513-fe5336e041b5" />
